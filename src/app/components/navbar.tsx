@@ -3,7 +3,7 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image'; 
-import ski from '../public/images/SKI.png'
+import ski from '../public/images/ski.png'
 
 export default function Navbar() {
   return (
